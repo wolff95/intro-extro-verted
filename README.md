@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Intro-extro-verted
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This is a little play-ground project. This shows a bit of my skills, but this is not meant to be the perfect project.
+It has a good enough experience and interface and it does what it has to do.
+To reach perfection, there is the need to stress it further! Cheers!
 
 ## Available Scripts
 

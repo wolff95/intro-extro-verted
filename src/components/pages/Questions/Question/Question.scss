@@ -1,0 +1,36 @@
+.question-body {
+  p {
+    font-weight: bold;
+    height: 100px;
+  }
+
+  .option {
+    margin-top: 30px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+  input {
+    margin-right: 30px;
+  }
+
+  label {
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .question-body {
+    flex-direction: column;
+
+    .option {
+      margin-top: 10px;
+      height: 60px;
+    }
+
+    label {
+      font-size: 1rem;
+    }
+  }
+}

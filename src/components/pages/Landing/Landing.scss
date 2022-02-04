@@ -1,0 +1,29 @@
+.landing {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .title-wrapper {
+    margin-right: 100px;
+  }
+
+  .subtitle-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    border: 5px solid #000;
+    padding: 5%;
+  }
+}
+
+@media (max-width: 1500px) {
+  .landing {
+    flex-direction: column;
+
+    .title-wrapper {
+      margin: 30px 0;
+    }
+  }
+}

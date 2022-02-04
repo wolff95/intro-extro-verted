@@ -1,0 +1,132 @@
+[
+  {
+    "_id": "16561bb4-b47f-42bd-af51-7021f38d2660",
+    "question": "You’re really busy at work and a colleague is telling you their life story and personal woes. You:",
+    "options": [
+      {
+        "_id": "c324e3d2-ff6f-48d0-9fe9-a9ead5ec52eb",
+        "answer": "Don't dare to interrupt them",
+        "score": 1
+      },
+      {
+        "_id": "67915da2-0bd6-481e-ab4e-c1088f9e614a",
+        "answer": "Think it’s more important to give them some of your time; work can wait",
+        "score": 10
+      },
+      {
+        "_id": "537200a6-a26d-4548-88a4-861a93dada50",
+        "answer": "Listen, but with only with half an ear",
+        "score": 5
+      },
+      {
+        "_id": "04fac1dc-1382-464b-aa0e-00944483fc7f",
+        "answer": "Interrupt and explain that you are really busy at the moment",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "_id": "cb727dca-6df2-4a99-badc-19117eef99d2",
+    "question": "You’ve been sitting in the doctor’s waiting room for more than 25 minutes. You:",
+    "options": [
+      {
+        "_id": "f24213aa-a4a8-45fd-a29d-007b16781b36",
+        "answer": "Look at your watch every two minutes",
+        "score": 1
+      },
+      {
+        "_id": "655a07a6-1dd7-4a37-8954-5163a15098ec",
+        "answer": "Bubble with inner anger, but keep quiet",
+        "score": 1
+      },
+      {
+        "_id": "6cff69e9-6209-4fa2-aac0-6e8eb1352cac",
+        "answer": "Explain to other equally impatient people in the room that the doctor is always running late",
+        "score": 10
+      },
+      {
+        "_id": "a4e7115c-e292-41be-8aea-5bbf0385cfd1",
+        "answer": "Complain in a loud voice, while tapping your foot impatiently",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "_id": "71ab3db1-6410-4560-b0ed-441b8bc8b8d3",
+    "question": "You are taking part in a guided tour of a museum. You:",
+    "options": [
+      {
+        "_id": "a15fc91e-63b6-46e4-af9d-efb79b21d7b9",
+        "answer": "Are a bit too far towards the back so don’t really hear what the guide is saying",
+        "score": 1
+      },
+      {
+        "_id": "41141c4c-fe68-4882-b56e-78aaac676d75",
+        "answer": "Follow the group without question",
+        "score": 2
+      },
+      {
+        "_id": "94b267c8-b1ca-4119-8b09-3b2f48f3b839",
+        "answer": "Make sure that everyone is able to hear properly",
+        "score": 5
+      },
+      {
+        "_id": "c580015f-ed8e-45b3-82c3-a8875431c64a",
+        "answer": "Are right up the front, adding your own comments in a loud voice",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "_id": "589c2fb8-f8b9-44c4-86a3-33e83c1e46ac",
+    "question": "You’re having an animated discussion with a colleague regarding a project that you’re in charge of. You:",
+    "options": [
+      {
+        "_id": "cde763b8-59dd-439d-9fa6-b619490c6cd2",
+        "answer": "Don’t dare contradict them",
+        "score": 1
+      },
+      {
+        "_id": "e44ac10e-2a77-44d5-8556-0e86f86d2c01",
+        "answer": "Think that they are obviously right",
+        "score": 2
+      },
+      {
+        "_id": "6b4a6e76-07ee-4092-bd67-54b23b16af6e",
+        "answer": "Defend your own point of view, tooth and nail",
+        "score": 10
+      },
+      {
+        "_id": "616a8c3e-309e-4f14-ae7b-b378f95d65a3",
+        "answer": "Continuously interrupt your colleague",
+        "score": 8
+      }
+    ]
+  },
+  {
+    "_id": "a119811c-6455-4fcd-90d7-bfdc51a97e9d",
+    "question": "During dinner parties at your home, you have a hard time with people who:",
+    "options": [
+      {
+        "_id": "071fce57-5680-4e14-b018-bf52f69cee17",
+        "answer": "Ask you to tell a story in front of everyone else",
+        "score": 1
+      },
+      {
+        "_id": "fcfa70e3-f6a2-41da-b565-1500c4c6daea",
+        "answer": "Talk privately between themselves",
+        "score": 1
+      },
+      {
+        "_id": "f3621b70-dd4e-4602-ae29-44592199d75a",
+        "answer": "Hang around you all evening",
+        "score": 1
+      },
+      {
+        "_id": "ed1dcccc-8b0f-48fe-9ac2-4f04e05e209c",
+        "answer": "Always drag the conversation back to themselves",
+        "score": 10
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+nav {
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  width: 100%;
+  padding: 15px 0;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+  background-color: #fff;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  text-transform: uppercase;
+  cursor: pointer;
+
+  div {
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  .intro {
+    border-top: 2px solid #000;
+  }
+  .extro {
+    border-bottom: 2px solid #000;
+  }
+  .verted {
+    margin-left: 5px;
+    font-size: 4rem;
+    padding-bottom: 0.3rem;
+  }
+}
